@@ -1,6 +1,6 @@
 ### Welcome!
 - Working on Pricing Analytics
-- Learning about Data Science 
+- Learning about Data Science and Retail & Commercial Banking
 - Able to collaborate in multiple projects
 - Reach me at alejandro.latorre@pucp.edu.pe
 <!--
