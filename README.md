@@ -1,5 +1,5 @@
 ### Welcome!
-- Working on Business Intelligence & Analytics
+- Working on Business Intelligence & Data Analytics
 - Learning about Data Science, Data Engineering, Business Analytics and Business Strategy
 - Able to collaborate in multiple projects
 - Reach me at alejandro.latorre@pucp.edu.pe
