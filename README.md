@@ -1,6 +1,6 @@
 ### Welcome!
-- Working on Data Science & Analytics
-- Learning about Data Science and Business Analytics
+- Working on Data Science & Engineering
+- Learning about Data Science, Data Engineering and Web Development
 - Able to collaborate in multiple projects
 - Reach me at alejandro.latorre@pucp.edu.pe
 <!--
