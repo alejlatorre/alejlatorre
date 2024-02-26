@@ -1,6 +1,6 @@
 ### Welcome!
-- I am an Analytics Engineer
-- Learning about Data Science, Data Engineering and Software Development
+- Data & Analytics Engineer (actually a problem solver)
+- Continuously learning about Data Science, Data Engineering and Software Development
 - Able to collaborate in multiple projects
 - Reach me at alej669@gmail.com
 <!--
