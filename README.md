@@ -1,6 +1,6 @@
 ### Welcome!
 - Full Stack Data Engineer
-- Continuously learning about Data Engineering and Software Development
+- Continuously learning about Data Engineering, LLMs and Software Development
 - Able to collaborate in projects
 - Reach out to me at alejandro.latorre@trust-ai.dev
 <!--
