@@ -1,8 +1,14 @@
-### Welcome!
-- Full Stack Data Engineer
-- Continuously learning about Data Engineering, LLMs and Software Development
-- Able to collaborate in projects
-- Reach out to me at alejandro.latorre@trust-ai.dev
-<!--
-**alejlatorre/alejlatorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Hi there 👋
+
+- Full Stack Data Engineer [@uDocz](https://www.udocz.com/home)
+- CEO and DataOps Developer [@TrustAI](https://github.com/TrustxAI)
+- Continuously learning and working in Data Engineering, Cloud Engineering and Software Development
+
+Always open to collaborating on projects. Feel free to connect with me here: alejandro.latorre@trust-ai.dev
+
+<!--- 
+## Tech stack
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejlatorre&hide=jupyter%20notebook,javascript,html,css&layout=compact&theme=dracula)
+
+[![alejlatorre's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alejlatorre&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/alejlatorre/github-readme-stats)
+->
