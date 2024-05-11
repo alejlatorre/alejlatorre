@@ -2,7 +2,7 @@
 
 - Full Stack Data Engineer [@uDocz](https://www.udocz.com/home)
 - CEO and DataOps Developer [@TrustAI](https://github.com/TrustxAI)
-- Bulding stuff related to Data Engineering, Cloud Engineering and Software Development
+- Bulding stuff related to LLMOps, Data Engineering, Cloud Engineering and Software Development
 
 Always open to collaborating on projects. Reach out to me at: alejandro.latorre@trust-ai.dev
  
