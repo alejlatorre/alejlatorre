@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Data Engineer [@Indeed](https:/indeed.com)
+- Data Engineer [@Indeed](https://www.indeed.com)
 - Data Engineer [@uDocz](https://www.udocz.com/home)
 - CEO [@TrustAI](https://github.com/TrustxAI)
 - Bulding stuff related to Data Engineering, Cloud Engineering, LLMOps and Software Development
