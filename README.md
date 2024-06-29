@@ -6,7 +6,9 @@
 - Bulding stuff related to Data Engineering, Cloud Engineering, LLMOps and Software Development
 
 Always open to collaborating on projects. Reach out to me at: alejandro.latorre@trust-ai.dev
- 
+
+Linkedin: [Alejandro Latorre Rojas](https://www.linkedin.com/in/alejandro-latorre-rojas/)
+
 <!--- 
 ## Tech stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejlatorre&hide=jupyter%20notebook,javascript,html,css&layout=compact&theme=dracula)
