@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - CEO [@TrustAI](https://github.com/TrustxAI)
-- Sr Data Engineer [@Indeed](https://www.indeed.com)
-- Sr Data Engineer [@uDocz](https://www.udocz.com/home)
+- Data Engineer [@Indeed](https://www.indeed.com)
+- Data Engineer [@uDocz](https://www.udocz.com/home)
 - Bulding stuff related to Data Engineering, Cloud Engineering, LLMOps and Software Development
 
 Always open to collaborating on projects. Reach out to me at: alejandro.latorre@trust-ai.dev
