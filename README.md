@@ -3,9 +3,8 @@
 - CEO & Software Developer [@TrustAI](https://github.com/TrustxAI)
 - Sr Data Engineer [@Indeed](https://www.indeed.com)
 - Sr Data Engineer [@uDocz](https://www.udocz.com/home)
-- Building stuff related to Data Engineering, Cloud Engineering, LLMOps and Software Development
 
-Always open to collaborating on projects. Reach out to me at: alejandro.latorre@trust-ai.dev
+Building and shipping -- Always open to collaborating on projects -- Reach out to me at: alejandro.latorre@trust-ai.dev
 
 Linkedin: [Alejandro Latorre Rojas](https://www.linkedin.com/in/alejandro-latorre-rojas/)
 
