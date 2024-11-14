@@ -4,9 +4,10 @@
 - Sr Data Engineer [@Indeed](https://www.indeed.com)
 - Sr Data Engineer [@uDocz](https://www.udocz.com/home)
 
-Building and shipping -- Always open to collaborating on projects -- Reach out to me at: alejandro.latorre@trust-ai.dev
+### Contact
+- Email: alejandro.latorre@trust-ai.dev
+- Linkedin: [Alejandro Latorre Rojas](https://www.linkedin.com/in/alejandro-latorre-rojas/)
 
-Linkedin: [Alejandro Latorre Rojas](https://www.linkedin.com/in/alejandro-latorre-rojas/)
 
 <!--- 
 ## Tech stack
