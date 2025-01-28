@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- CEO & Developer [@TrustAI](https://github.com/TrustxAI)
+- Data, AI & Software Developer [@TrustAI](https://github.com/TrustxAI)
 - Sr Data Engineer [@Indeed](https://www.indeed.com)
 - Sr Data Engineer [@uDocz](https://www.udocz.com/home)
 
