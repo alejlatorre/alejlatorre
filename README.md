@@ -1,8 +1,5 @@
 ## Hi there 👋
-
-- Data, AI & Software Developer [@TrustAI](https://github.com/TrustxAI)
-- Sr Data Engineer [@Indeed](https://www.indeed.com)
-- Sr Data Engineer [@uDocz](https://www.udocz.com/home)
+Currently building and shipping
 
 ### Contact
 - Email: alejandro.latorre@trust-ai.dev
